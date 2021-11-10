@@ -1,0 +1,113 @@
+What is emergence (multiple things)
+
+How would we see it manifest?
+
+(Squiggles surpassing memory limits)
+
+How does that work for pitch
+
+Self-organization vs emergence (Where is the boundary?)
+
+Leitmotifs
+
+Semiology
+
+Psychoacoustics
+
+Multiple examples
+
+Each pitch is its own agent, need to negotiate to be included
+
+Real time negotiation between agents
+
+Constrain the agents
+
+Constraints-based approach
+
+Leitmotif evolutionary algorithms
+
+
+
+Each motif bargaining for time
+Nodes in graph
+Who can bargain who
+
+Each pitch is an agent
+preferred trading partners?
+
+
+Evolutionary counterpoint
+Evaluate counterpoints in accordance to the rules mentioned in Fux
+Think about crossing algorithm, position is important, but also adjacency?
+
+
+Try and affect velocity in some ways? Could be interesting?
+
+Emergence in music, not boids pls
+
+Arpeggios?
+
+Give the agents limited resources
+
+Remove constraints to get chaos (which is good)
+
+Melodies is already kinda emergence?
+
+Novelty through complexity
+
+
+
+Constraints probably either time or pitch
+
+Orchestra
+
+
+Start from the beginning and end
+
+Hamming distance for pitch - Compare histograms of note distributions
+
+Some kinda gamma distribution esque value function
+
+Solojam just disallowed small hamming distances
+
+Start making a quartet simulation!
+
+
+
+Energy simulation
+
+Possibly allow changing every note
+
+Instead of histogram do the way the note changes?
+
+Dovetailing
+
+More advanced keep track of note order
+
+
+
+Hardware have multiple belas interact
+
+Go full art installation
+
+Todd Ingels
+
+Make a histogram of notes played to determine "scale"
+
+
+
+Plots!
+
+Energy and utility!
+
+Find out why the agents converge, and learn to control it.
+
+Make a github!
+
+Agents bargaining for notes they want to play.
+
+Their allowance is their histograms.
+
+How to make agents want to play certain notes?
+
+Consider machine learning

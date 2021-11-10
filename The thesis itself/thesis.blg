@@ -1,0 +1,58 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: thesis.aux
+Reallocating 'name_of_file' (item size: 1) to 7 items.
+The style file: ieeetr.bst
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+Database file #1: bibliography.bib
+I was expecting a `,' or a `}'---line 112 of file bibliography.bib
+ :  
+ :  year={2020},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--entry type for "rokeby2001nchant" isn't style-file defined
+--line 170 of file bibliography.bib
+Warning--there's a number but no series in bonabeau1999swarm
+Warning--empty year in boersen2020chatterbox
+You've used 21 entries,
+            1876 wiz_defined-function locations,
+            590 strings with 7185 characters,
+and the built_in function-call counts, 5313 in all, are:
+= -- 484
+> -- 205
+< -- 0
++ -- 76
+- -- 55
+* -- 340
+:= -- 731
+add.period$ -- 23
+call.type$ -- 21
+change.case$ -- 19
+chr.to.int$ -- 0
+cite$ -- 23
+duplicate$ -- 313
+empty$ -- 583
+format.name$ -- 55
+if$ -- 1305
+int.to.chr$ -- 0
+int.to.str$ -- 21
+missing$ -- 22
+newline$ -- 68
+num.names$ -- 23
+pop$ -- 130
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 168
+stack$ -- 0
+substring$ -- 287
+swap$ -- 94
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 2
+while$ -- 53
+width$ -- 23
+write$ -- 188
+(There was 1 error message)

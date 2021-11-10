@@ -1,0 +1,103 @@
+\begin{thebibliography}{10}
+
+\bibitem{pasquier2017introduction}
+P.~Pasquier, A.~Eigenfeldt, O.~Bown, and S.~Dubnov, ``An introduction to
+  musical metacreation,'' {\em Computers in Entertainment (CIE)}, vol.~14,
+  no.~2, pp.~1--14, 2017.
+
+\bibitem{studley2019exploring}
+J.~D. Thomas~Studley and N.~Scott, ``Exploring competitive musical creativity
+  in digital composition games,'' in {\em Proceedings of the 7th International
+  Workshop on Musical Metacreation} (B.~L. Sturm and R.~M. Keller, eds.), 2019.
+
+\bibitem{bennett2018neurythmic}
+D.~Bennett, P.~Bennett, and A.~Roudaut, ``Neurythmic: A rhythm creation tool
+  based on central pattern generators.,'' in {\em NIME}, pp.~210--215, 2018.
+
+\bibitem{blackwell2003swarm}
+T.~Blackwell, ``Swarm music: improvised music with multi-swarms,'' {\em
+  Artificial Intelligence and the Simulation of Behaviour, University of
+  Wales}, vol.~10, pp.~142--158, 2003.
+
+\bibitem{farbood2001analysis}
+M.~Farbood and B.~Sch{\"o}ner, ``Analysis and synthesis of palestrina-style
+  counterpoint using markov chains,'' in {\em ICMC}, 2001.
+
+\bibitem{plutt2021lazyvoice}
+C.~Plutt and P.~Pasquier, ``Lazyvoice : Efficient voice-leading calculation,''
+  in {\em ICMC}, 2021.
+
+\bibitem{tatar2017masom}
+K.~Tatar and P.~Pasquier, ``Masom: A musical agent architecture based on self
+  organizing maps, affective computing, and variable markov models,'' in {\em
+  Proceedings of the 5th International Workshop on Musical Metacreation (MUME
+  2017). Atlanta, Georgia, USA}, 2017.
+
+\bibitem{ens2020quantifying}
+J.~Ens and P.~Pasquier, ``Quantifying musical style: Ranking symbolic music
+  based on similarity to a style,'' {\em arXiv preprint arXiv:2003.06226},
+  2020.
+
+\bibitem{bonabeau1999swarm}
+E.~Bonabeau, D.~d. R. D.~F. Marco, M.~Dorigo, G.~Th{\'e}raulaz, G.~Theraulaz,
+  {\em et~al.}, {\em Swarm intelligence: from natural to artificial systems}.
+\newblock No.~1, Oxford university press, 1999.
+
+\bibitem{bisig2008interactive}
+D.~Bisig, M.~Neukom, and J.~Flury, ``Interactive swarm orchestra a generic
+  programming environment for swarm based computer music,'' in {\em ICMC},
+  2008.
+
+\bibitem{bisig2012tools}
+D.~Bisig and P.~Kocher, ``Tools and abstractions for swarm based music and
+  art,'' in {\em ICMC}, 2012.
+
+\bibitem{reynolds1987flocks}
+C.~W. Reynolds, ``Flocks, herds and schools: A distributed behavioral model,''
+  in {\em Proceedings of the 14th annual conference on Computer graphics and
+  interactive techniques}, pp.~25--34, 1987.
+
+\bibitem{unemi2005music}
+T.~Unemi and D.~Bisig, ``Music by interaction among two flocking species and
+  human,'' in {\em Proceedings of the third international conference on
+  generative systems in electronic arts, Melbourne, Australia}, pp.~171--179,
+  2005.
+
+\bibitem{bisig2008swarm}
+D.~Bisig and M.~Neukom, ``Swarm based computer music-towards a repertory of
+  strategies,'' {\em computer music}, vol.~12, p.~13, 2008.
+
+\bibitem{boyd2004swarmart}
+J.~E. Boyd, G.~Hushlak, and C.~J. Jacob, ``Swarmart: interactive art from swarm
+  intelligence,'' in {\em Proceedings of the 12th annual ACM international
+  conference on Multimedia}, pp.~628--635, 2004.
+
+\bibitem{blackwell2004multi}
+T.~Blackwell and J.~Branke, ``Multi-swarm optimization in dynamic
+  environments,'' in {\em Workshops on Applications of Evolutionary
+  Computation}, pp.~489--500, Springer, 2004.
+
+\bibitem{wooldridge2009introduction}
+M.~Wooldridge, {\em An introduction to multiagent systems}.
+\newblock John wiley \& sons, 2009.
+
+\bibitem{boersen2020chatterbox}
+R.~Boersen, A.~Liu-Rosenbaum, K.~Tatar, and P.~Pasquier, ``Chatterbox: an
+  interactive system of gibberish agents,'' in {\em Proceedings of the 26th
+  International Symposium on Electronic Art (ISEA)}, pp.~55--62.
+
+\bibitem{rokeby2001nchant}
+D.~Rokeby, ``n-cha(n)t,'' 2001.
+
+\bibitem{chandra2012market}
+A.~Chandra, K.~Nymoen, A.~Voldsund, A.~R. Jensenius, K.~Glette, and
+  J.~Torresen, ``Market-based control in interactive music environments,'' in
+  {\em International Symposium on Computer Music Modeling and Retrieval},
+  pp.~439--458, Springer, 2012.
+
+\bibitem{kirke2013emotional}
+A.~Kirke and E.~Miranda, ``Emotional and multi-agent systems in computer-aided
+  writing and poetry,'' in {\em Proceedings of the Artificial Intelligence and
+  Poetry Symposium}, pp.~17--22, 2013.
+
+\end{thebibliography}
