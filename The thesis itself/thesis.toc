@@ -1,18 +1,19 @@
 \babel@toc {english}{}
-\contentsline {chapter}{\numberline {1}Introduction}{1}{}%
-\contentsline {chapter}{\numberline {2}Background}{2}{}%
-\contentsline {section}{\numberline {2.1}Introduction}{2}{}%
-\contentsline {section}{\numberline {2.2}Musical metacreation}{2}{}%
-\contentsline {subsection}{\numberline {2.2.1}Interactive vs. Autonomous}{2}{}%
-\contentsline {subsection}{\numberline {2.2.2}Harcoded rules vs. Machine Learning}{3}{}%
-\contentsline {section}{\numberline {2.3}Multi-agent systems}{4}{}%
-\contentsline {subsection}{\numberline {2.3.1}Swarm intelligence}{5}{}%
-\contentsline {subsubsection}{Interactive Swarm Orchestra}{6}{}%
-\contentsline {subsubsection}{Boids}{6}{}%
-\contentsline {subsubsection}{Multi-swarms}{7}{}%
-\contentsline {subsection}{\numberline {2.3.2}Game Theory}{8}{}%
-\contentsline {subsubsection}{Agents talking with each other}{8}{}%
-\contentsline {subsubsection}{Passing it around}{9}{}%
-\contentsline {chapter}{\numberline {3}Design and Implementation}{10}{}%
-\contentsline {chapter}{\numberline {4}Evaluation}{11}{}%
-\contentsline {chapter}{\numberline {5}Conclusion and Future Work}{12}{}%
+\contentsline {chapter}{\numberline {1}Introduction}{2}{}%
+\contentsline {chapter}{\numberline {2}Background}{3}{}%
+\contentsline {section}{\numberline {2.1}Introduction}{3}{}%
+\contentsline {section}{\numberline {2.2}Musical metacreation}{3}{}%
+\contentsline {subsection}{\numberline {2.2.1}Interactive vs. Autonomous}{3}{}%
+\contentsline {subsection}{\numberline {2.2.2}Harcoded rules vs. Machine Learning}{4}{}%
+\contentsline {section}{\numberline {2.3}Multi-agent systems}{5}{}%
+\contentsline {subsection}{\numberline {2.3.1}Swarm intelligence}{6}{}%
+\contentsline {subsubsection}{Interactive Swarm Orchestra}{7}{}%
+\contentsline {subsubsection}{Boids}{7}{}%
+\contentsline {subsubsection}{Multi-swarms}{8}{}%
+\contentsline {subsection}{\numberline {2.3.2}Game Theory}{9}{}%
+\contentsline {subsubsection}{Agents talking with each other}{9}{}%
+\contentsline {subsubsection}{Passing it around}{10}{}%
+\contentsline {chapter}{\numberline {3}Design and Implementation}{11}{}%
+\contentsline {chapter}{\numberline {4}Evaluation}{12}{}%
+\contentsline {chapter}{\numberline {5}Future Work}{13}{}%
+\contentsline {chapter}{\numberline {6}Conclusion}{14}{}%

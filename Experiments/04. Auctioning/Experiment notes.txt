@@ -1,0 +1,5 @@
+Taking inspiration from Chandra's paper, here I wanted to try out having multiple agents auctioning the solo time between them, but instead of using rhythm as a basis for the auctioning, instead the melody is.
+
+The melody is here represented by a histogram of which notes are being played, and the difference between the playing melody and the others is the basis for the score.
+
+I didn't think this worked that well, and therefore decided to do a different experiment with ordering instead.

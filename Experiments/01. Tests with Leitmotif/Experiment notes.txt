@@ -1,0 +1,3 @@
+The idea here was to take a look at leitmotifs, and see if there was a way to make variations on them algorithmically.
+
+The way variations were made was by doing pitch changes and/or note length changes, leading to a motif that sounds similar to the original, but slightly different.

@@ -1,0 +1,6 @@
+In an attempt to produce new melodies, I decided to try and apply evolutionary algorithms to generate motifs.
+
+The scoring is done according to the rules of counterpoint (See Fux' book)
+
+The capabilities of the system allows for counterpoint with multiple voices, creating 3 and 4 voice counterpoint as well, by using the generated counterpoint as the new baseline.
+

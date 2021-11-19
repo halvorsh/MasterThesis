@@ -1,0 +1,5 @@
+This experiment involves creating a simulated quartet. 
+
+The way it works is that the soprano voice first chooses a note, and then every voice below chooses a note that's valid to make a chord with
+
+This ensures some basic harmony.

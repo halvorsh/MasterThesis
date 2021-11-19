@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.9.14)  8 NOV 2021 21:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.9.14)  18 NOV 2021 14:11
 entering extended mode
 **./thesis.tex
 (thesis.tex
@@ -249,7 +249,7 @@ See the natbib package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.78 ...mand\NAT@force@numbers{}\NAT@force@numbers
+l.81 ...mand\NAT@force@numbers{}\NAT@force@numbers
                                                   
 Check the bibliography entries for non-compliant syntax,
 or select author-year BibTeX style, e.g. plainnat
@@ -326,38 +326,42 @@ Package pdftex.def Info: DUO_UiO_segl.png  used on input line 20.
 [1
 
 {C:/Users/halvo/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./DUO_UiO_segl.
-png>] [1] [1] [1] (thesis.toc)
+png>] [1] [1] [1] [1] (thesis.toc)
 \tf@toc=\write3
 \openout3 = `thesis.toc'.
 
  [1
 
-] [1]
+]
 Chapter 1.
-[1
+[2
 
 ]
 Chapter 2.
-[2
+[3
 
-] [3] [4] [5] [6] [7] [8]
+] [4] [5] [6] [7] [8] [9]
 Underfull \hbox (badness 10000) in paragraph at lines 128--131
 
  []
 
-[9]
+[10]
 Chapter 3.
-[10
-
-]
-Chapter 4.
 [11
 
 ]
-Chapter 5.
-(thesis.bbl [12
+Chapter 4.
+[12
 
-] [13
+]
+Chapter 5.
+[13
+
+]
+Chapter 6.
+(thesis.bbl [14
+
+] [15
 
 ]
 Underfull \hbox (badness 1320) in paragraph at lines 99--102
@@ -365,7 +369,7 @@ Underfull \hbox (badness 1320) in paragraph at lines 99--102
 ms in
  []
 
-) [14] (thesis.aux) ) 
+) [16] (thesis.aux) ) 
 Here is how much of TeX's memory you used:
  5575 strings out of 478864
  82567 string characters out of 2848660
@@ -388,9 +392,9 @@ alvo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C
 r/sfrm1000.pfb><C:/Users/halvo/AppData/Local/Programs/MiKTeX/fonts/type1/urw/ar
 ial/ua1r8a.pfb><C:/Users/halvo/AppData/Local/Programs/MiKTeX/fonts/type1/urw/ar
 ial/ua1ri8a.pfb>
-Output written on thesis.pdf (20 pages, 206833 bytes).
+Output written on thesis.pdf (21 pages, 207569 bytes).
 PDF statistics:
- 122 PDF objects out of 1000 (max. 8388607)
+ 125 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -111,3 +111,26 @@ Their allowance is their histograms.
 How to make agents want to play certain notes?
 
 Consider machine learning
+
+
+
+Remember to push limits and not just stay on the same parameters
+
+Find a way to make more voice easierly
+
+Use a lot of agents to create a histogram of pitches/frequencies, use that to synthesize the music
+
+Prettify the graphs
+
+Make folders of everything you do just in case
+
+
+
+
+Make new graphs for the old stuff as well
+
+Explore game theory games with agents, ultimatum game, prisoner's dilemma
+
+Read Xinakkis, and connect that to networks crowds and markets book
+
+Check out dynamic systems
