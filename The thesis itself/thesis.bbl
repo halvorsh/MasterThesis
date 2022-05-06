@@ -84,7 +84,7 @@ M.~Wooldridge, {\em An introduction to multiagent systems}.
 \bibitem{boersen2020chatterbox}
 R.~Boersen, A.~Liu-Rosenbaum, K.~Tatar, and P.~Pasquier, ``Chatterbox: an
   interactive system of gibberish agents,'' in {\em Proceedings of the 26th
-  International Symposium on Electronic Art (ISEA)}, pp.~55--62.
+  International Symposium on Electronic Art (ISEA)}, pp.~55--62, 2020.
 
 \bibitem{rokeby2001nchant}
 D.~Rokeby, ``n-cha(n)t,'' 2001.
@@ -99,5 +99,19 @@ A.~Chandra, K.~Nymoen, A.~Voldsund, A.~R. Jensenius, K.~Glette, and
 A.~Kirke and E.~Miranda, ``Emotional and multi-agent systems in computer-aided
   writing and poetry,'' in {\em Proceedings of the Artificial Intelligence and
   Poetry Symposium}, pp.~17--22, 2013.
+
+\bibitem{braun2006using}
+V.~Braun and V.~Clarke, ``Using thematic analysis in psychology,'' {\em
+  Qualitative research in psychology}, vol.~3, no.~2, pp.~77--101, 2006.
+
+\bibitem{tanaka2012survey}
+A.~Tanaka, A.~Parkinson, Z.~Settel, and K.~Tahiroglu, ``A survey and thematic
+  analysis approach as input to the design of mobile music guis.,'' in {\em
+  NIME}, Citeseer, 2012.
+
+\bibitem{schmickl2011beeclust}
+T.~Schmickl and H.~Hamann, ``Beeclust: A swarm algorithm derived from
+  honeybees,'' {\em Bio-inspired computing and communication networks},
+  pp.~95--137, 2011.
 
 \end{thebibliography}

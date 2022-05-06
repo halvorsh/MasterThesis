@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.9.14)  18 NOV 2021 14:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.9.14)  6 MAY 2022 20:26
 entering extended mode
 **./thesis.tex
 (thesis.tex
@@ -233,10 +233,39 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count284
 )
+(C:\Users\halvo\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
+Package: csquotes 2021-02-22 v5.2l context-sensitive quotations (JAW)
+
+(C:\Users\halvo\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count285
+)
+\csq@reset=\count286
+\csq@gtype=\count287
+\csq@glevel=\count288
+\csq@qlevel=\count289
+\csq@maxlvl=\count290
+\csq@tshold=\count291
+\csq@ltx@everypar=\toks25
+
+(C:\Users\halvo\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
+File: csquotes.def 2021-02-22 v5.2l csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+(C:\Users\halvo\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.cfg
+File: csquotes.cfg 
+))
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'english'.
+
 (C:\Users\halvo\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
 File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count285
+\l__color_backend_stack_int=\count292
 \l__pdf_internal_box=\box54
 ) (thesis.aux
 
@@ -249,7 +278,7 @@ See the natbib package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.81 ...mand\NAT@force@numbers{}\NAT@force@numbers
+l.193 ...and\NAT@force@numbers{}\NAT@force@numbers
                                                   
 Check the bibliography entries for non-compliant syntax,
 or select author-year BibTeX style, e.g. plainnat
@@ -257,35 +286,35 @@ or select author-year BibTeX style, e.g. plainnat
 )
 \openout1 = `thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
 
 (C:\Users\halvo\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count286
+\scratchcounter=\count293
 \scratchdimen=\dimen157
 \scratchbox=\box55
-\nofMPsegments=\count287
-\nofMParguments=\count288
-\everyMPshowfont=\toks25
-\MPscratchCnt=\count289
+\nofMPsegments=\count294
+\nofMParguments=\count295
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count296
 \MPscratchDim=\dimen158
-\MPnumerator=\count290
-\makeMPintoPDFobject=\count291
-\everyMPtoPDFconversion=\toks26
+\MPnumerator=\count297
+\makeMPintoPDFobject=\count298
+\everyMPtoPDFconversion=\toks27
 )
 (C:\Users\halvo\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
@@ -297,71 +326,178 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-\c@lstlisting=\count292
-LaTeX Info: Redefining \celsius on input line 17.
-Package gensymb Info: Faking symbols for \degree and \celsius on input line 17.
+\c@lstlisting=\count299
+LaTeX Info: Redefining \celsius on input line 19.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 19.
 
 
 
 Package gensymb Warning: Not defining \perthousand.
 
-LaTeX Info: Redefining \ohm on input line 17.
-Package gensymb Info: Using \Omega for \ohm on input line 17.
+LaTeX Info: Redefining \ohm on input line 19.
+Package gensymb Info: Using \Omega for \ohm on input line 19.
 
 Package gensymb Warning: Not defining \micro.
 
-LaTeX Font Info:    Trying to load font information for T1+ua1 on input line 20
+LaTeX Font Info:    Trying to load font information for T1+ua1 on input line 22
 .
 (C:\Users\halvo\AppData\Local\Programs\MiKTeX\tex/latex/arial\t1ua1.fd
 File: t1ua1.fd 2006/03/21 Fontinst v1.928 font definitions for T1/ua1.
 )
 LaTeX Font Info:    Font shape `T1/ua1/m/sl' in size <20> not available
-(Font)              Font shape `T1/ua1/m/it' tried instead on input line 20.
+(Font)              Font shape `T1/ua1/m/it' tried instead on input line 22.
 <DUO_UiO_segl.png, id=1, 142.3719pt x 142.3719pt>
 File: DUO_UiO_segl.png Graphic file (type png)
 <use DUO_UiO_segl.png>
-Package pdftex.def Info: DUO_UiO_segl.png  used on input line 20.
+Package pdftex.def Info: DUO_UiO_segl.png  used on input line 22.
 (pdftex.def)             Requested size: 170.71652pt x 170.73027pt.
 
 [1
 
 {C:/Users/halvo/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./DUO_UiO_segl.
-png>] [1] [1] [1] [1] (thesis.toc)
+png>] [1] [1] [1] [1] (thesis.toc [1
+
+])
 \tf@toc=\write3
 \openout3 = `thesis.toc'.
 
- [1
-
-]
+ [2]
 Chapter 1.
-[2
+[3
 
 ]
 Chapter 2.
-[3
+[4
 
-] [4] [5] [6] [7] [8] [9]
-Underfull \hbox (badness 10000) in paragraph at lines 128--131
+] [5] [6] [7] [8] [9] [10]
+Underfull \hbox (badness 10000) in paragraph at lines 149--152
 
  []
 
-[10]
+[11] [12] [13]
 Chapter 3.
-[11
+[14
 
-]
+] [15] [16]
+<keyboard.jpg, id=81, 3550.26375pt x 1243.64626pt>
+File: keyboard.jpg Graphic file (type jpg)
+<use keyboard.jpg>
+Package pdftex.def Info: keyboard.jpg  used on input line 226.
+(pdftex.def)             Requested size: 241.49895pt x 84.5782pt.
+ [17 <./keyboard.jpg>] [18] [19] [20]
+<islands_vis.png, id=96, 722.7pt x 363.60844pt>
+File: islands_vis.png Graphic file (type png)
+<use islands_vis.png>
+Package pdftex.def Info: islands_vis.png  used on input line 318.
+(pdftex.def)             Requested size: 345.0pt x 173.57578pt.
+<islands.png, id=97, 642.4pt x 481.8pt>
+File: islands.png Graphic file (type png)
+<use islands.png>
+Package pdftex.def Info: islands.png  used on input line 324.
+(pdftex.def)             Requested size: 345.0pt x 258.75659pt.
+<even_space.png, id=98, 744.53156pt x 366.61969pt>
+File: even_space.png Graphic file (type png)
+<use even_space.png>
+Package pdftex.def Info: even_space.png  used on input line 343.
+(pdftex.def)             Requested size: 345.0pt x 169.889pt.
+ [21 <./islands_vis.png>]
+<even.png, id=102, 642.4pt x 481.8pt>
+File: even.png Graphic file (type png)
+<use even.png>
+Package pdftex.def Info: even.png  used on input line 349.
+(pdftex.def)             Requested size: 345.0pt x 258.75659pt.
+<evenOneAgent.png, id=103, 462.528pt x 346.896pt>
+File: evenOneAgent.png Graphic file (type png)
+<use evenOneAgent.png>
+Package pdftex.def Info: evenOneAgent.png  used on input line 355.
+(pdftex.def)             Requested size: 345.0pt x 258.76335pt.
+<few_agents.png, id=104, 746.03719pt x 362.10281pt>
+File: few_agents.png Graphic file (type png)
+<use few_agents.png>
+Package pdftex.def Info: few_agents.png  used on input line 373.
+(pdftex.def)             Requested size: 345.0pt x 167.44781pt.
+
+[22 <./islands.png (PNG copy)>] [23 <./even_space.png> <./even.png (PNG copy)>]
+<smallMovements.png, id=111, 642.4pt x 481.8pt>
+File: smallMovements.png Graphic file (type png)
+<use smallMovements.png>
+Package pdftex.def Info: smallMovements.png  used on input line 392.
+(pdftex.def)             Requested size: 345.0pt x 258.75659pt.
+[24 <./evenOneAgent.png>]
+<smallMovementsOneAgent.png, id=116, 462.528pt x 346.896pt>
+File: smallMovementsOneAgent.png Graphic file (type png)
+<use smallMovementsOneAgent.png>
+Package pdftex.def Info: smallMovementsOneAgent.png  used on input line 398.
+(pdftex.def)             Requested size: 345.0pt x 258.76335pt.
+<instrument.png, id=117, 740.7675pt x 359.84438pt>
+File: instrument.png Graphic file (type png)
+<use instrument.png>
+Package pdftex.def Info: instrument.png  used on input line 418.
+(pdftex.def)             Requested size: 345.0pt x 167.59494pt.
+<instrument_move.png, id=118, 727.96968pt x 365.86688pt>
+File: instrument_move.png Graphic file (type png)
+<use instrument_move.png>
+Package pdftex.def Info: instrument_move.png  used on input line 424.
+(pdftex.def)             Requested size: 345.0pt x 173.39778pt.
+<swarminstrument.png, id=119, 642.4pt x 481.8pt>
+File: swarminstrument.png Graphic file (type png)
+<use swarminstrument.png>
+Package pdftex.def Info: swarminstrument.png  used on input line 433.
+(pdftex.def)             Requested size: 345.0pt x 258.75659pt.
+<swarminstrumentOneAgent.png, id=120, 462.528pt x 346.896pt>
+File: swarminstrumentOneAgent.png Graphic file (type png)
+<use swarminstrumentOneAgent.png>
+Package pdftex.def Info: swarminstrumentOneAgent.png  used on input line 439.
+(pdftex.def)             Requested size: 345.0pt x 258.76335pt.
+ [25 <./few_agents.png>] [26 <./smallMovements.png (PNG copy)> <./smallMovement
+sOneAgent.png>] [27 <./instrument.png> <./instrument_move.png>]
+<chaos_vis.png, id=132, 764.10469pt x 368.87813pt>
+File: chaos_vis.png Graphic file (type png)
+<use chaos_vis.png>
+Package pdftex.def Info: chaos_vis.png  used on input line 458.
+(pdftex.def)             Requested size: 345.0pt x 166.55084pt.
+ [28 <./swarminstrument.png (PNG copy)>]
+<chaos.png, id=136, 642.4pt x 481.8pt>
+File: chaos.png Graphic file (type png)
+<use chaos.png>
+Package pdftex.def Info: chaos.png  used on input line 466.
+(pdftex.def)             Requested size: 345.0pt x 258.75659pt.
+<chaosOneAgent.png, id=137, 462.528pt x 346.896pt>
+File: chaosOneAgent.png Graphic file (type png)
+<use chaosOneAgent.png>
+Package pdftex.def Info: chaosOneAgent.png  used on input line 472.
+(pdftex.def)             Requested size: 345.0pt x 258.76335pt.
+<zoom_vis.png, id=138, 712.91344pt x 368.87813pt>
+File: zoom_vis.png Graphic file (type png)
+<use zoom_vis.png>
+Package pdftex.def Info: zoom_vis.png  used on input line 490.
+(pdftex.def)             Requested size: 345.0pt x 178.51166pt.
+ [29 <./swarminstrumentOneAgent.png>] [30 <./chaos_vis.png> <./chaos.png (PNG c
+opy)>]
+<zoom.png, id=146, 642.4pt x 481.8pt>
+File: zoom.png Graphic file (type png)
+<use zoom.png>
+Package pdftex.def Info: zoom.png  used on input line 496.
+(pdftex.def)             Requested size: 345.0pt x 258.75659pt.
+<zoomOneAgent.png, id=147, 462.528pt x 346.896pt>
+File: zoomOneAgent.png Graphic file (type png)
+<use zoomOneAgent.png>
+Package pdftex.def Info: zoomOneAgent.png  used on input line 502.
+(pdftex.def)             Requested size: 345.0pt x 258.76335pt.
+ [31 <./chaosOneAgent.png>] [32 <./zoom_vis.png> <./zoom.png (PNG copy)>] [33 <
+./zoomOneAgent.png>]
 Chapter 4.
-[12
+[34
 
-]
+] [35] [36] [37] [38] [39] [40] [41] [42] [43]
 Chapter 5.
-[13
+[44
 
 ]
 Chapter 6.
-(thesis.bbl [14
+(thesis.bbl [45
 
-] [15
+] [46
 
 ]
 Underfull \hbox (badness 1320) in paragraph at lines 99--102
@@ -369,32 +505,37 @@ Underfull \hbox (badness 1320) in paragraph at lines 99--102
 ms in
  []
 
-) [16] (thesis.aux) ) 
+) [47] (thesis.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 5575 strings out of 478864
- 82567 string characters out of 2848660
- 404410 words of memory out of 3000000
- 23411 multiletter control sequences out of 15000+600000
+ 6684 strings out of 478864
+ 100217 string characters out of 2848660
+ 432851 words of memory out of 3000000
+ 24507 multiletter control sequences out of 15000+600000
  434456 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 77i,5n,83p,1308b,289s stack positions out of 5000i,500n,10000p,200000b,80000s
-{C:/Users/halvo/AppData/Local/Programs/MiKTeX/fonts/enc/dv
-ips/cm-super/cm-super-ts1.enc}{C:/Users/halvo/AppData/Local/Programs/MiKTeX/fon
-ts/enc/dvips/base/8r.enc}<C:/Users/halvo/AppData/Local/Programs/MiKTeX/fonts/ty
-pe1/public/amsfonts/cm/cmbx10.pfb><C:/Users/halvo/AppData/Local/Programs/MiKTeX
-/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/halvo/AppData/Local/Progra
-ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/halvo/AppData/Loca
-l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/halvo/AppD
-ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/h
-alvo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C
-:/Users/halvo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt
-10.pfb><C:/Users/halvo/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-supe
-r/sfrm1000.pfb><C:/Users/halvo/AppData/Local/Programs/MiKTeX/fonts/type1/urw/ar
-ial/ua1r8a.pfb><C:/Users/halvo/AppData/Local/Programs/MiKTeX/fonts/type1/urw/ar
-ial/ua1ri8a.pfb>
-Output written on thesis.pdf (21 pages, 207569 bytes).
+ 77i,7n,83p,1698b,289s stack positions out of 5000i,500n,10000p,200000b,80000s
+{C:/Users/halvo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cm-super/cm-sup
+er-ts1.enc}{C:/Users/halvo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8
+r.enc}<C:/Users/halvo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmbx10.pfb><C:/Users/halvo/AppData/Local/Programs/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmbx12.pfb><C:/Users/halvo/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmmi10.pfb><C:/Users/halvo/AppData/Local/Programs/MiKTeX/
+fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/halvo/AppData/Local/Programs
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/halvo/AppData/Local/
+Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/halvo/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/ha
+lvo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:
+/Users/halvo/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfrm1000
+.pfb><C:/Users/halvo/AppData/Local/Programs/MiKTeX/fonts/type1/urw/arial/ua1r8a
+.pfb><C:/Users/halvo/AppData/Local/Programs/MiKTeX/fonts/type1/urw/arial/ua1ri8
+a.pfb>
+Output written on thesis.pdf (52 pages, 2721804 bytes).
 PDF statistics:
- 125 PDF objects out of 1000 (max. 8388607)
+ 254 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 101 words of extra memory for PDF output out of 10000 (max. 10000000)
 

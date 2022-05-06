@@ -1,19 +1,87 @@
 \babel@toc {english}{}
-\contentsline {chapter}{\numberline {1}Introduction}{2}{}%
-\contentsline {chapter}{\numberline {2}Background}{3}{}%
-\contentsline {section}{\numberline {2.1}Introduction}{3}{}%
-\contentsline {section}{\numberline {2.2}Musical metacreation}{3}{}%
-\contentsline {subsection}{\numberline {2.2.1}Interactive vs. Autonomous}{3}{}%
-\contentsline {subsection}{\numberline {2.2.2}Harcoded rules vs. Machine Learning}{4}{}%
-\contentsline {section}{\numberline {2.3}Multi-agent systems}{5}{}%
-\contentsline {subsection}{\numberline {2.3.1}Swarm intelligence}{6}{}%
-\contentsline {subsubsection}{Interactive Swarm Orchestra}{7}{}%
-\contentsline {subsubsection}{Boids}{7}{}%
-\contentsline {subsubsection}{Multi-swarms}{8}{}%
-\contentsline {subsection}{\numberline {2.3.2}Game Theory}{9}{}%
-\contentsline {subsubsection}{Agents talking with each other}{9}{}%
-\contentsline {subsubsection}{Passing it around}{10}{}%
-\contentsline {chapter}{\numberline {3}Design and Implementation}{11}{}%
-\contentsline {chapter}{\numberline {4}Evaluation}{12}{}%
-\contentsline {chapter}{\numberline {5}Future Work}{13}{}%
-\contentsline {chapter}{\numberline {6}Conclusion}{14}{}%
+\contentsline {chapter}{\numberline {1}Introduction}{3}{}%
+\contentsline {section}{\numberline {1.1}Thesis goals}{3}{}%
+\contentsline {section}{\numberline {1.2}Contributions}{3}{}%
+\contentsline {chapter}{\numberline {2}Background}{4}{}%
+\contentsline {section}{\numberline {2.1}Introduction}{4}{}%
+\contentsline {section}{\numberline {2.2}Musical metacreation}{4}{}%
+\contentsline {subsection}{\numberline {2.2.1}Interactive vs. Autonomous}{4}{}%
+\contentsline {subsection}{\numberline {2.2.2}Harcoded rules vs. Machine Learning}{5}{}%
+\contentsline {section}{\numberline {2.3}Multi-agent systems}{6}{}%
+\contentsline {subsection}{\numberline {2.3.1}Swarm intelligence}{7}{}%
+\contentsline {subsubsection}{Interactive Swarm Orchestra}{8}{}%
+\contentsline {subsubsection}{Boids}{8}{}%
+\contentsline {subsubsection}{Multi-swarms}{9}{}%
+\contentsline {subsection}{\numberline {2.3.2}Game Theory}{10}{}%
+\contentsline {subsubsection}{Agents talking with each other}{10}{}%
+\contentsline {subsubsection}{Passing it around}{11}{}%
+\contentsline {subsection}{\numberline {2.3.3}BEECLUST}{11}{}%
+\contentsline {section}{\numberline {2.4}Thematic Analysis}{12}{}%
+\contentsline {chapter}{\numberline {3}Design and Implementation}{14}{}%
+\contentsline {section}{\numberline {3.1}Preliminary systems}{14}{}%
+\contentsline {subsection}{\numberline {3.1.1}Leitmotif variator}{14}{}%
+\contentsline {subsection}{\numberline {3.1.2}Evolutionary counterpoint}{14}{}%
+\contentsline {subsection}{\numberline {3.1.3}Quartet}{15}{}%
+\contentsline {subsection}{\numberline {3.1.4}Auctioning}{16}{}%
+\contentsline {section}{\numberline {3.2}Pitch Swarm Agents}{16}{}%
+\contentsline {subsection}{\numberline {3.2.1}Tools}{17}{}%
+\contentsline {subsubsection}{Unity}{17}{}%
+\contentsline {subsubsection}{MIDI keyboard}{17}{}%
+\contentsline {subsection}{\numberline {3.2.2}System components}{17}{}%
+\contentsline {subsubsection}{Agents}{17}{}%
+\contentsline {subsubsection}{Synthesis}{18}{}%
+\contentsline {subsubsection}{Intermediary System}{18}{}%
+\contentsline {subsubsection}{MIDI keyboard}{18}{}%
+\contentsline {subsubsection}{Visualization}{19}{}%
+\contentsline {subsection}{\numberline {3.2.3}Parameters}{19}{}%
+\contentsline {subsubsection}{How long the agent will remain}{19}{}%
+\contentsline {subsubsection}{How much impact the MIDI instrument has}{19}{}%
+\contentsline {subsubsection}{Timestep length}{19}{}%
+\contentsline {subsubsection}{Number of agents}{19}{}%
+\contentsline {subsubsection}{Swarm Volume}{20}{}%
+\contentsline {subsubsection}{MIDI Volume}{20}{}%
+\contentsline {subsubsection}{Agent Range}{20}{}%
+\contentsline {subsubsection}{Agent Look Range}{20}{}%
+\contentsline {subsection}{\numberline {3.2.4}Modes of Behaviour}{20}{}%
+\contentsline {subsubsection}{Regular instrument}{21}{}%
+\contentsline {subsubsection}{Islands}{21}{}%
+\contentsline {subsubsection}{Every other note}{22}{}%
+\contentsline {subsubsection}{Few agents}{24}{}%
+\contentsline {subsubsection}{Small movements}{25}{}%
+\contentsline {subsubsection}{Swarm instrument}{25}{}%
+\contentsline {subsubsection}{All chaos}{29}{}%
+\contentsline {subsubsection}{Zooms around}{31}{}%
+\contentsline {chapter}{\numberline {4}Evaluation}{34}{}%
+\contentsline {section}{\numberline {4.1}User Study}{34}{}%
+\contentsline {subsection}{\numberline {4.1.1}Adjust parameters to create sounds}{35}{}%
+\contentsline {subsubsection}{Chaotic sound}{35}{}%
+\contentsline {subsubsection}{Pleasant sound}{35}{}%
+\contentsline {subsubsection}{Controllable sound}{36}{}%
+\contentsline {subsubsection}{Uncontrollable sound}{36}{}%
+\contentsline {subsubsection}{Duet}{36}{}%
+\contentsline {subsection}{\numberline {4.1.2}Parameter Evaluation}{36}{}%
+\contentsline {subsubsection}{How long the agent will remain}{36}{}%
+\contentsline {subsubsection}{How much impact the MIDI instrument has}{37}{}%
+\contentsline {subsubsection}{Timestep length}{37}{}%
+\contentsline {subsubsection}{Number of Agents}{37}{}%
+\contentsline {subsubsection}{Swarm Volume}{37}{}%
+\contentsline {subsubsection}{MIDI Volume}{37}{}%
+\contentsline {subsubsection}{Agent Range}{38}{}%
+\contentsline {subsubsection}{Agent Look Range}{38}{}%
+\contentsline {subsection}{\numberline {4.1.3}Behaviour Evaluation}{38}{}%
+\contentsline {subsubsection}{Regular instrument}{38}{}%
+\contentsline {subsubsection}{Islands}{38}{}%
+\contentsline {subsubsection}{Every other note}{38}{}%
+\contentsline {subsubsection}{Few agents}{39}{}%
+\contentsline {subsubsection}{Small movements}{39}{}%
+\contentsline {subsubsection}{Swarm instrument}{39}{}%
+\contentsline {subsubsection}{All chaos}{39}{}%
+\contentsline {subsubsection}{Zooms around}{40}{}%
+\contentsline {subsection}{\numberline {4.1.4}Freeplay}{40}{}%
+\contentsline {subsubsection}{Preference of parameters vs behaviours}{40}{}%
+\contentsline {subsubsection}{Overall impression of the system}{40}{}%
+\contentsline {section}{\numberline {4.2}Thematic Analysis}{41}{}%
+\contentsline {subsection}{\numberline {4.2.1}Control}{41}{}%
+\contentsline {subsection}{\numberline {4.2.2}Visualization}{42}{}%
+\contentsline {chapter}{\numberline {5}Future Work}{44}{}%
+\contentsline {chapter}{\numberline {6}Conclusion}{45}{}%

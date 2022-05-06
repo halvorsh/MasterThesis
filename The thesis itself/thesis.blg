@@ -5,54 +5,48 @@ Reallocating 'name_of_file' (item size: 1) to 7 items.
 The style file: ieeetr.bst
 Reallocating 'name_of_file' (item size: 1) to 13 items.
 Database file #1: bibliography.bib
-I was expecting a `,' or a `}'---line 112 of file bibliography.bib
- :  
- :  year={2020},
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
 Warning--entry type for "rokeby2001nchant" isn't style-file defined
 --line 170 of file bibliography.bib
 Warning--there's a number but no series in bonabeau1999swarm
-Warning--empty year in boersen2020chatterbox
-You've used 21 entries,
+You've used 24 entries,
             1876 wiz_defined-function locations,
-            590 strings with 7185 characters,
-and the built_in function-call counts, 5313 in all, are:
-= -- 484
-> -- 205
+            607 strings with 7693 characters,
+and the built_in function-call counts, 6111 in all, are:
+= -- 564
+> -- 235
 < -- 0
-+ -- 76
-- -- 55
-* -- 340
-:= -- 731
-add.period$ -- 23
-call.type$ -- 21
-change.case$ -- 19
++ -- 87
+- -- 63
+* -- 394
+:= -- 844
+add.period$ -- 26
+call.type$ -- 24
+change.case$ -- 22
 chr.to.int$ -- 0
-cite$ -- 23
-duplicate$ -- 313
-empty$ -- 583
-format.name$ -- 55
-if$ -- 1305
+cite$ -- 25
+duplicate$ -- 356
+empty$ -- 663
+format.name$ -- 63
+if$ -- 1501
 int.to.chr$ -- 0
-int.to.str$ -- 21
-missing$ -- 22
-newline$ -- 68
-num.names$ -- 23
-pop$ -- 130
+int.to.str$ -- 24
+missing$ -- 25
+newline$ -- 77
+num.names$ -- 26
+pop$ -- 140
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 168
+skip$ -- 194
 stack$ -- 0
-substring$ -- 287
-swap$ -- 94
+substring$ -- 341
+swap$ -- 109
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 2
-while$ -- 53
-width$ -- 23
-write$ -- 188
-(There was 1 error message)
+warning$ -- 1
+while$ -- 62
+width$ -- 26
+write$ -- 218
+(There were 2 warnings)

@@ -134,3 +134,169 @@ Explore game theory games with agents, ultimatum game, prisoner's dilemma
 Read Xinakkis, and connect that to networks crowds and markets book
 
 Check out dynamic systems
+
+
+
+Make it circular?
+
+Sine waves?
+
+Simple sine waves, not anything too fancy
+
+Make a writeup of this, for someone who is not familiar.
+
+Create a way to influence it (heatmap or right number to add to histogram)
+
+Pitch agents!
+
+Make a real proper snapshot for the presentation
+
+
+
+MAKE A WRITE UP (Inspirations, background, how it works, how well it works, basically like a paper but not as polished)
+
+Pitch salience for relation between pitches
+
+Stockhausen, sine wave composition, studie II
+
+What happens when there are many agents?
+
+What happens when there are very few agents?
+
+For interactive system, parameters for changing max/min notes, number of agents, all in real time
+
+
+
+Write more, expand
+
+Two approaches to study
+
+User study vs analyzing behavior
+
+User study: If interactive, have people interact with it
+
+Make videos of myself interacting with the system
+
+Aim to have at least six people
+
+In between musical partner and musical instrument
+
+Different configurations could be different places on the partner-instrument spectrum
+
+How do users' interaction change depending on where on the spectrum the system is
+
+Create a version on either extreme
+
+Until next week: Work on making it real time
+
+
+Think of the visualization as a part of the system
+Visualization of the bees
+
+Make it possible to directly play
+
+Make the different kinds of chaos sound different
+
+Write down types of chaos
+
+- Complete Chaos
+
+- Two islands, one of agents, one of human
+
+- Agents can't reach, human need to grab
+
+- Few agents give clearer sound, more agents more "noisy"
+
+"Grabbing agents"
+
+Spacializing - Low frequencies on left speaker, high on the right
+
+Don't focus too much on how people interact with the visuals, not as the research question
+
+How the agents interact with each other, look into it, don't need a user study for that
+
+How do people interact with the different types of chaos?
+
+Think about what type of control experiment would you have?
+
+Keep the focus on tasks and what the subjects should do
+
+Color visualizations
+
+
+
+Make a slider/knob that controls audio of system and audio of direct piano
+
+Have user study check what settings the user ends up on (or if they keep switching them around)
+
+In thesis:
+
+- Describe regular bee algorithm
+
+- Describe the system I have made
+
+- Parameter description (especially adjustable)
+
+- A diagram or two describing it (not just plots, but explanations of movement and similar)
+
+- Describe the modes of operation (what settings cause them), again, diagrams
+
+- User studies, how do people navigate the stabilities, and which do they stick with
+
+Add some data tracking code to make plots from
+
+Explain everything to participants, think of clear ways to explain
+
+In the user study, have a task that is me describing modes of behaviour
+
+Make note of parameters that makes the behaviour reproducable
+
+Presets vs finetuned control - What do people like
+
+
+Structure of experiment:
+
+- Explanation
+
+- Tasks with the knobs (make the most chaos, the most pretty, the most ____)
+
+- Tasks with the presets
+--Describe each adjective with presets (With and without visualization)
+
+- Free reign (Do they use the presets, or do they prefer the knobs, or a hybrid)
+
+
+
+Change the instrument behaviour to be done by the swarm
+
+
+
+Write about mapping
+
+one-to-one
+
+one-to-many
+
+
+
+How has the literature I refernce evaluated their systems
+
+Make labels!
+
+In the parameter section, describe if it makes it more chaotic or not.
+
+Write about chaos vs controlability
+
+Give each parameter a greek letter
+Make a table at the start of each behaviour section detailing which parameters have to be a certain way, vs which ones are more flexible
+
+MAKE 2D GRAPHS - track agents' path over time
+
+
+
+
+Seperate future work into "What would be different if I did the user study again" (in Evaluation), and what would I do with the system as a whole (Future works)
+
+Different level of interpretation
+
+Each th
